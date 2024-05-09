@@ -3,8 +3,6 @@
 <h1 align="center">Welcome 👋, KOBASTAR İME 2024</h1>
 <h3 align="center">A passionate Electrical-Electronics engineers from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakzsy&label=Profile%20views&color=0e75b6&style=flat" alt="burakzsy" /> </p>
-
 - 🔭 We are currently working on **Altium Database**
 
 - 💬 Ask me about **KOBASTAR IME 2024**
