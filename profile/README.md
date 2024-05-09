@@ -1,11 +1,11 @@
 ![MasterHead](https://kobastar.com/wp-content/uploads/2024/03/KOBASTAR-SBS.jpg)
 
 <h1 align="center">Welcome 👋, KOBASTAR İME 2024</h1>
-<h3 align="center">A passionate Electrical and Electronics engineers from Türkiye</h3>
+<h3 align="center">A passionate Electrical-Electronics engineers from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakzsy&label=Profile%20views&color=0e75b6&style=flat" alt="burakzsy" /> </p>
 
-- 🔭 I’m currently working on **Altium Database**
+- 🔭 We are currently working on **Altium Database**
 
 - 💬 Ask me about **KOBASTAR IME 2024**
 
