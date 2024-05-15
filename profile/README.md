@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **KOBASTAR IME 2024**
 
-- 📫 How to reach me **ozsoyburk42@gmail.com**
+- 📫 How to reach me **ozsoyburak42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
